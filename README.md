@@ -1,6 +1,4 @@
-This code builds a heart disease prediction model using a dataset. It performs data preprocessing,
-feature selection, scaling, and model training with different machine learning algorithms. 
-The goal is to predict whether a person has heart disease (binary classification).
+This code builds a heart disease prediction model using a dataset. It performs data preprocessing,feature selection, scaling, and model training with different machine learning algorithms. The goal is to predict whether a person has heart disease (binary classification).
 
 Steps performed:
 
